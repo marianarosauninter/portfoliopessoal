@@ -1,0 +1,50 @@
+body {
+    background-color: grey;
+}
+
+#botoes {
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: black;
+}
+
+.botao {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Consolas;
+}
+
+#sobremim {
+    background-color: rgb(255, 171, 185);
+}
+
+#formacao {
+    background-color: rgb(100, 150, 250);
+}
+
+#portfolio {
+    background-color: rgb(255, 255, 133);
+}
+
+#contato {
+    background-color: rgb(145, 253, 145);
+}
+
+.texto {
+    color: white;
+    font-family: consolas;
+    text-align: justify;
+}
+
+div {
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 15px;
+    background-color: black;
+}
